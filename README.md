@@ -1,4 +1,4 @@
-# The Hero's Journey <img src="static/Icon.png" width="60">
+# The Hero's Journey <img src="media/uriarteMono.png" width="60">
 
 > tl;dr description of the app
 
