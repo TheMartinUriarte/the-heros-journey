@@ -19,7 +19,6 @@ So to get GitHub recognition for the work I put in, this is a repo holding some 
 - [General Assembly](#general)
 - [JavaScript](#javascript)
 - [Bugs and Feedback](#bugs)
-- [License](#license)
 
 ## About
 
