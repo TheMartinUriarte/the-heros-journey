@@ -17,7 +17,7 @@ So to get GitHub recognition for the work I put in, this is a repo holding some 
 - [About](#about)
 - [Communication](#communication)
 - [General Assembly](https://github.com/TheMartinUriarte/the-heros-journey/tree/master/general-assembly)
-- [JavaScript](#https://github.com/TheMartinUriarte/the-heros-journey/tree/master/javascript)
+- [JavaScript](https://github.com/TheMartinUriarte/the-heros-journey/tree/master/javascript)
 - [Bugs and Feedback](#bugs)
 
 ## About
