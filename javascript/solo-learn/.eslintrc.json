@@ -1,3 +1,8 @@
 {
-  "extends": ["google", "prettier"]
+  "extends": ["google", "prettier"],
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  }
 }
